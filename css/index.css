@@ -80,7 +80,7 @@ a {
 
 .cont-right{
     width: 40%;
-    background-image: url("/images/close-up-students-classroom.jpg");
+    background-image: url("images/close-up-students-classroom.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
